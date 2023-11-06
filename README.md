@@ -1,0 +1,2 @@
+# Solar Apocalypse
+Solar Apocalypse is a gamemode with a simple core gameplay loop: during the night, players collect resources to build shelters and hideouts; during the day, players hide from the sun.
