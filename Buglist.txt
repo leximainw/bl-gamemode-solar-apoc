@@ -1,0 +1,2 @@
+﻿There is no command to cancel a game in progress.
+Players have no jets even when the gamemode is off.

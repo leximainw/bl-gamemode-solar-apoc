@@ -1,0 +1,28 @@
+﻿ADDON Brick_Large_Cubes
+ADDON Brick_Arch
+ADDON Brick_V15
+ADDON Emote_Alarm
+ADDON Emote_Confusion
+ADDON Emote_Hate
+ADDON Emote_Love
+ADDON Light_Basic
+ADDON Particle_Basic
+ADDON Particle_FX_Cans
+ADDON Particle_Grass
+ADDON Particle_Player
+ADDON Particle_Tools
+ADDON Player_No_Jet
+ADDON Projectile_Radio_Wave
+ADDON Sound_Synth4
+ADDON Sound_Beeps
+ADDON Weapon_Gun
+ADDON Vehicle_Horse
+ADDON Print_Letters_Default
+ADDON Gamemode_Solar_Apoc
+
+$EnvGuiServer::SimpleMode 1
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blue2/Blue2.dml
+$EnvGuiServer::WaterFile NONE
+$EnvGuiServer::GroundFile Add-Ons/Ground_TT/cement-pebbled.ground
+
+$MiniGame::Enabled 0
